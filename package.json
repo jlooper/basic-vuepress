@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "My site description",
   "scripts": {
-    "docs:build": "vuepress build docs",
+    "build": "vuepress build docs",
     "dev": "vuepress dev docs"
   },
   "keywords": [],
